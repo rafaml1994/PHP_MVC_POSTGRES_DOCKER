@@ -10,13 +10,12 @@ El usuario de administrador es el siguiente (rol del profesor) :
 El usuario de pruebas es el siguiente (rol del alumno) :
 
 - User : pruebas
-- Password : 123
+- Password : 1234
 
 /* GUÍA DE USO --------*/
 
 En primer lugar debes descargar Docker para no tener que modificar ningun dato si lo deseas, de no ser así modifica la cadena en el archivo "connection.php".
 
-En segundo lugar abrir el archivo "Leer antes de usar" en el cual hay una guía de como instalar la base de datos usando Docker de una manera sencilla.
+En segundo lugar abrir el archivo "Leer antes de usar" que va a ser el archivo guía para montar el proyecto.
 
-En tercer lugar , añadir el contenido
 
